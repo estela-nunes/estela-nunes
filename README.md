@@ -1,9 +1,9 @@
 ### Hi everyone! I'm Estela, thank you for passing by 😄
 <hr />
 
-## About me :star:
+## About me
 
-:computer:  I'm a **Software engineer** with 5+ years of experience </br>
+:computer:  I'm a **Software Engineer** with 5+ years of experience </br>
 :woman_student:  I have a MSc. degree in Computer Science and a BSc. in Information Systems </br>
 ⚡ I wrote my first `Hello world` when I was 17 (it was written in C) </br>
 :globe_with_meridians: I speak Portuguese (native), English (C1), and I'm currently learning French (A2) </br>
