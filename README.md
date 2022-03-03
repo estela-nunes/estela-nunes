@@ -23,6 +23,6 @@
 
 ## Currently learning
 <div style="display: inline_block">
-  <img align="center" alt="php" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-  <img align="center" alt="php" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-plain-wordmark.svg" />
+  <img align="center" alt="golang" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img alt="laravel" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <div>
